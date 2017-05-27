@@ -1,2 +1,2 @@
-# trilhajs
-Projetos dos cursos de JS
+# Trilha JS
+Projetos e exercicios dos cursos de JS
